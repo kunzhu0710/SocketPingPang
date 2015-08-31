@@ -3,22 +3,7 @@ import java.net.InetAddress;
 import java.net.InetSocketAddress;
 import java.net.Socket;
 
-/*
- * File Name£ºSimpleTcpClient.java
- * Copyright£ºCopyright 2008-2014 CiWong.Inc. All Rights Reserved.
- * Description£º SimpleTcpClient.java
- * Modify By£ºRES-KUNZHU
- * Modify Date£º2014-6-20
- * Modify Type£ºAdd
- */
 
-/**
- * 
- * 
- * @author RES-KUNZHU
- * @version ciwong v.1.0 2014-6-20
- * @since ciwong v.1.0
- */
 public class SimpleTcpClient
 {
     public static void main(String[] args)

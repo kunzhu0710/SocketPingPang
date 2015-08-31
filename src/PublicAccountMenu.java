@@ -1,11 +1,3 @@
-/*
- * File Name£ºPublicAccountMenu.java
- * Copyright£ºCopyright 2008-2014 CiWong.Inc. All Rights Reserved.
- * Description£º PublicAccountMenu.java
- * Modify By£ºRES-KUNZHU
- * Modify Date£º2014-7-30
- * Modify Type£ºAdd
- */
 
 
 import java.io.Serializable;
@@ -15,13 +7,7 @@ import java.util.List;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
-/**
- * ¹«ÖÚºÅ²Ëµ¥
- * 
- * @author RES-KUNZHU
- * @version ciwong v.1.0 2014-7-30
- * @since ciwong v.1.0
- */
+
 public class PublicAccountMenu implements Serializable
 {
     /**
